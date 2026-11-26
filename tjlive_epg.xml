@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-26T09:00:11+00:00">
+<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-26T19:45:55+00:00">
   <channel id="tj-live">
     <display-name>TJ LIVE</display-name>
   </channel>
@@ -478,14 +478,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261128040000 +0000" stop="20261128061000 +0000">
+  <programme channel="tj-live" start="20261128040000 +0000" stop="20261128055600 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261128061000 +0000" stop="20261128062000 +0000">
+  <programme channel="tj-live" start="20261128055600 +0000" stop="20261128062000 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -572,14 +572,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261128191800 +0000" stop="20261128211100 +0000">
+  <programme channel="tj-live" start="20261128191800 +0000" stop="20261128211400 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261128211100 +0000" stop="20261128213200 +0000">
+  <programme channel="tj-live" start="20261128211400 +0000" stop="20261128213200 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -653,14 +653,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261129064300 +0000" stop="20261129083600 +0000">
+  <programme channel="tj-live" start="20261129064300 +0000" stop="20261129084000 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261129083600 +0000" stop="20261129090600 +0000">
+  <programme channel="tj-live" start="20261129084000 +0000" stop="20261129090600 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -685,14 +685,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261129115200 +0000" stop="20261129134500 +0000">
+  <programme channel="tj-live" start="20261129115200 +0000" stop="20261129134800 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261129134500 +0000" stop="20261129141300 +0000">
+  <programme channel="tj-live" start="20261129134800 +0000" stop="20261129141300 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -724,14 +724,16 @@
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261129185400 +0000" stop="20261129210400 +0000">
-    <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
-    <desc lang="lv">26.11.26</desc>
-    <category lang="lv">sports</category>
-    <category lang="lv">Atkārtojums</category>
+  <programme channel="tj-live" start="20261129185400 +0000" stop="20261129193000 +0000">
+    <title lang="lv">Uzvaras formula ar Arvi Kudiņu</title>
+    <sub-title lang="lv">6. epizode</sub-title>
+    <desc lang="lv">Arvja Kudiņa nedēļas sporta apskats.</desc>
+    <category lang="lv">podkāsts</category>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261129210400 +0000" stop="20261129211300 +0000">
+  <programme channel="tj-live" start="20261129193000 +0000" stop="20261129211300 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -806,14 +808,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261130064100 +0000" stop="20261130085200 +0000">
+  <programme channel="tj-live" start="20261130064100 +0000" stop="20261130083700 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261130085200 +0000" stop="20261130091600 +0000">
+  <programme channel="tj-live" start="20261130083700 +0000" stop="20261130091600 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -853,14 +855,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261130143400 +0000" stop="20261130163900 +0000">
+  <programme channel="tj-live" start="20261130143400 +0000" stop="20261130163000 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261130163900 +0000" stop="20261130170000 +0000">
+  <programme channel="tj-live" start="20261130163000 +0000" stop="20261130170000 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -907,14 +909,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261130232900 +0000" stop="20261201014000 +0000">
+  <programme channel="tj-live" start="20261130232900 +0000" stop="20261201012500 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261201014000 +0000" stop="20261201014900 +0000">
+  <programme channel="tj-live" start="20261201012500 +0000" stop="20261201014900 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -953,14 +955,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261201064100 +0000" stop="20261201085200 +0000">
+  <programme channel="tj-live" start="20261201064100 +0000" stop="20261201083700 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261201085200 +0000" stop="20261201091500 +0000">
+  <programme channel="tj-live" start="20261201083700 +0000" stop="20261201091500 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -1000,14 +1002,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261201143300 +0000" stop="20261201163800 +0000">
+  <programme channel="tj-live" start="20261201143300 +0000" stop="20261201163000 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261201163800 +0000" stop="20261201170000 +0000">
+  <programme channel="tj-live" start="20261201163000 +0000" stop="20261201170000 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -1054,14 +1056,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261201232900 +0000" stop="20261202014000 +0000">
+  <programme channel="tj-live" start="20261201232900 +0000" stop="20261202012600 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261202014000 +0000" stop="20261202014900 +0000">
+  <programme channel="tj-live" start="20261202012600 +0000" stop="20261202014900 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -1115,14 +1117,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261202091000 +0000" stop="20261202112100 +0000">
+  <programme channel="tj-live" start="20261202091000 +0000" stop="20261202110600 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261202112100 +0000" stop="20261202115000 +0000">
+  <programme channel="tj-live" start="20261202110600 +0000" stop="20261202115000 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -1172,14 +1174,14 @@
     <country>Estonia</country>
     <live />
   </programme>
-  <programme channel="tj-live" start="20261202200600 +0000" stop="20261202221100 +0000">
+  <programme channel="tj-live" start="20261202200600 +0000" stop="20261202220300 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261202221100 +0000" stop="20261202222100 +0000">
+  <programme channel="tj-live" start="20261202220300 +0000" stop="20261202222100 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -1311,11 +1313,19 @@
     <country>Estonia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261203210900 +0000" stop="20261203232100 +0000">
+  <programme channel="tj-live" start="20261203210900 +0000" stop="20261203230600 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261203230600 +0000" stop="20261203232100 +0000">
+    <title lang="lv">Mēneša spēļu labākie momenti</title>
+    <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Labākie momenti</category>
+    <country>Latvia</country>
     <previously-shown />
   </programme>
   <programme channel="tj-live" start="20261203232100 +0000" stop="20261204013400 +0000">
