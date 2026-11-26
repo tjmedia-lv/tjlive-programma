@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-26T19:45:55+00:00">
+<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-26T20:16:31+00:00">
   <channel id="tj-live">
     <display-name>TJ LIVE</display-name>
   </channel>
@@ -328,14 +328,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261127060000 +0000" stop="20261127075400 +0000">
+  <programme channel="tj-live" start="20261127060000 +0000" stop="20261127075700 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261127075400 +0000" stop="20261127101100 +0000">
+  <programme channel="tj-live" start="20261127075700 +0000" stop="20261127101400 +0000">
     <title lang="lv">ELVI Florbola līga: FK Kurši - FBK Valmiera</title>
     <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
     <desc lang="lv">22.11.26</desc>
@@ -344,7 +344,7 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261127101100 +0000" stop="20261127102100 +0000">
+  <programme channel="tj-live" start="20261127101400 +0000" stop="20261127102100 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
@@ -431,14 +431,14 @@
     <country>Latvia</country>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261127231800 +0000" stop="20261128012800 +0000">
+  <programme channel="tj-live" start="20261127231800 +0000" stop="20261128011400 +0000">
     <title lang="lv">EuroCup: TTT Rīga - Universitatea Cluj</title>
     <desc lang="lv">26.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <previously-shown />
   </programme>
-  <programme channel="tj-live" start="20261128012800 +0000" stop="20261128013800 +0000">
+  <programme channel="tj-live" start="20261128011400 +0000" stop="20261128013800 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
