@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-26T22:00:32+00:00">
+<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-27T04:33:36+00:00">
   <channel id="tj-live">
     <display-name>TJ LIVE</display-name>
   </channel>
@@ -1198,6 +1198,147 @@
     <previously-shown />
   </programme>
   <programme channel="tj-live" start="20261204035800 +0000" stop="20261204040000 +0000">
+    <title lang="lv">Mēneša spēļu labākie momenti</title>
+    <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Labākie momenti</category>
+    <country>Latvia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204040000 +0000" stop="20261204055700 +0000">
+    <title lang="lv">Latvijas - Igaunijas basketbola līga: BK Liepāja - Latvijas Universitāte</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">02.12.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <country>Latvia</country>
+    <country>Estonia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204055700 +0000" stop="20261204062300 +0000">
+    <title lang="lv">Mēneša spēļu labākie momenti</title>
+    <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Labākie momenti</category>
+    <country>Latvia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204062300 +0000" stop="20261204081700 +0000">
+    <title lang="lv">Latvijas - Igaunijas basketbola līga: VEF Rīga - BK Ventspils</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">02.12.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <country>Latvia</country>
+    <country>Estonia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204081700 +0000" stop="20261204084300 +0000">
+    <title lang="lv">Mēneša spēļu labākie momenti</title>
+    <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Labākie momenti</category>
+    <country>Latvia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204084300 +0000" stop="20261204105400 +0000">
+    <title lang="lv">Latvijas - Igaunijas basketbola līga: Rīgas Zeļļi - BC Pärnu</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">02.12.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <country>Latvia</country>
+    <country>Estonia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204105400 +0000" stop="20261204112000 +0000">
+    <title lang="lv">Mēneša spēļu labākie momenti</title>
+    <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Labākie momenti</category>
+    <country>Latvia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204112000 +0000" stop="20261204133400 +0000">
+    <title lang="lv">ARVIS: Podcast birojā</title>
+    <desc lang="lv">30.11.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204133400 +0000" stop="20261204134900 +0000">
+    <title lang="lv">Mēneša spēļu labākie momenti</title>
+    <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Labākie momenti</category>
+    <country>Latvia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204134900 +0000" stop="20261204160700 +0000">
+    <title lang="lv">ELVI Florbola līga: FK Kurši - Ķekava/RB&amp;B</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">27.11.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <country>Latvia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204160700 +0000" stop="20261204165000 +0000">
+    <title lang="lv">Mēneša spēļu labākie momenti</title>
+    <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Labākie momenti</category>
+    <country>Latvia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204165000 +0000" stop="20261204193600 +0000">
+    <title lang="lv">Latvijas - Igaunijas basketbola līga: BK Ogre - Valmiera Glass VIA</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">Tiešraide.</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Tiešraide</category>
+    <country>Latvia</country>
+    <country>Estonia</country>
+    <live />
+  </programme>
+  <programme channel="tj-live" start="20261204193600 +0000" stop="20261204213300 +0000">
+    <title lang="lv">WBBL: TTT Rīga - Sbk Liepāja/Lsss</title>
+    <desc lang="lv">28.11.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204213300 +0000" stop="20261204232700 +0000">
+    <title lang="lv">Latvijas - Igaunijas basketbola līga: BK Liepāja - Latvijas Universitāte</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">02.12.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <country>Latvia</country>
+    <country>Estonia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261204232700 +0000" stop="20261205013800 +0000">
+    <title lang="lv">Latvijas - Igaunijas basketbola līga: VEF Rīga - BK Ventspils</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">02.12.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <country>Latvia</country>
+    <country>Estonia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261205013800 +0000" stop="20261205035000 +0000">
+    <title lang="lv">Latvijas - Igaunijas basketbola līga: Rīgas Zeļļi - BC Pärnu</title>
+    <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
+    <desc lang="lv">02.12.26</desc>
+    <category lang="lv">sports</category>
+    <category lang="lv">Atkārtojums</category>
+    <country>Latvia</country>
+    <country>Estonia</country>
+    <previously-shown />
+  </programme>
+  <programme channel="tj-live" start="20261205035000 +0000" stop="20261205040000 +0000">
     <title lang="lv">Mēneša spēļu labākie momenti</title>
     <desc lang="lv">FIBA Eiropas kausa, Latvijas-Igaunijas basketbola līgas, ELVI florbola līgas u.c. spēļu labākie momenti.</desc>
     <category lang="lv">sports</category>
