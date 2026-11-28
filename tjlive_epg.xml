@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-27T22:01:47+00:00">
+<tv generator-info-name="tJ MEDIA eters" date-created="2026-11-28T03:01:50+00:00">
   <channel id="tj-live">
     <display-name>TJ LIVE</display-name>
   </channel>
@@ -265,9 +265,9 @@
     <previously-shown />
   </programme>
   <programme channel="tj-live" start="20261128170000 +0000" stop="20261128191800 +0000">
-    <title lang="lv">ELVI Florbola līga: FK Kurši - Ķekava/RB&amp;B</title>
+    <title lang="lv">ELVI Florbola līga: FK Kurši - FBK Valmiera</title>
     <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
-    <desc lang="lv">27.11.26</desc>
+    <desc lang="lv">22.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <country>Latvia</country>
@@ -289,9 +289,9 @@
     <previously-shown />
   </programme>
   <programme channel="tj-live" start="20261128213200 +0000" stop="20261128234900 +0000">
-    <title lang="lv">ELVI Florbola līga: FK Kurši - Ķekava/RB&amp;B</title>
+    <title lang="lv">ELVI Florbola līga: FK Kurši - FBK Valmiera</title>
     <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
-    <desc lang="lv">27.11.26</desc>
+    <desc lang="lv">22.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <country>Latvia</country>
@@ -338,9 +338,9 @@
     <previously-shown />
   </programme>
   <programme channel="tj-live" start="20261129040000 +0000" stop="20261129061700 +0000">
-    <title lang="lv">ELVI Florbola līga: FK Kurši - Ķekava/RB&amp;B</title>
+    <title lang="lv">ELVI Florbola līga: FK Kurši - FBK Valmiera</title>
     <sub-title lang="lv">Regulārā sezona 2026/2027</sub-title>
-    <desc lang="lv">27.11.26</desc>
+    <desc lang="lv">22.11.26</desc>
     <category lang="lv">sports</category>
     <category lang="lv">Atkārtojums</category>
     <country>Latvia</country>
